@@ -2,5 +2,5 @@
 
 Using Pandas Library for
 
-Exploratory Data Analysis
+Exploratory Data Analysis and 
 Customer Segmentation 
